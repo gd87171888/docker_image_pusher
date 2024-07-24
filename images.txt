@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 azking/arm64_bt59_lnmp
 linkease/istorepanel:latest
-lobehub/lobe-chat:v0.162.25
+lobehub/lobe-chat:v0.148.10
