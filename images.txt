@@ -7,4 +7,4 @@ xhofe/alist:latest
 azking/arm64_bt59_lnmp
 linkease/istorepanel:latest
 lobehub/lobe-chat:v0.148.10
-gdy666/lucky
+gdy666/lucky:latest
